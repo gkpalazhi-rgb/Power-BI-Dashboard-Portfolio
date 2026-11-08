@@ -48,7 +48,7 @@ Project Files
 
 Author
 
-Gokul Krishna K**
+Gokul Krishna K
 
 BCA Graduate | Data Science
 
